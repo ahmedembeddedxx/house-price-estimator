@@ -4,13 +4,6 @@
 
 Welcome to the House Pricing Predictor project! This predictive model is designed to estimate house prices based on various features. The project is developed by [Zaeem Ul Islam](https://github.com/mightyflavor/) and [Ahmed Abdullah](https://github.com/ahmedembeddedx). You can find the project repository [here](https://github.com/mightyflavor/house-pricing-predictor).
 
-<a href="https://ibb.co/5nWXzDP"><img src="https://i.ibb.co/ZY6Rws0/Screenshot-2024-03-24-at-12-10-24-AM.png" alt="Screenshot-2024-03-24-at-12-10-24-AM" border="0"></a>
-<a href="https://ibb.co/J7Y5jcR"><img src="https://i.ibb.co/9TxsHp9/Screenshot-2024-03-24-at-12-08-58-AM.png" alt="Screenshot-2024-03-24-at-12-08-58-AM" border="0"></a>
-<a href="https://ibb.co/YBmW4c3"><img src="https://i.ibb.co/s9nPpK2/Screenshot-2024-03-24-at-12-09-08-AM.png" alt="Screenshot-2024-03-24-at-12-09-08-AM" border="0"></a>
-<a href="https://ibb.co/QF3xhFY"><img src="https://i.ibb.co/Y7FVJ7f/Screenshot-2024-03-24-at-12-09-25-AM.png" alt="Screenshot-2024-03-24-at-12-09-25-AM" border="0"></a>
-<a href="https://ibb.co/0QDTVdq"><img src="https://i.ibb.co/M92r53n/Screenshot-2024-03-24-at-12-09-42-AM.png" alt="Screenshot-2024-03-24-at-12-09-42-AM" border="0"></a>
-<a href="https://ibb.co/jWrwZvq"><img src="https://i.ibb.co/pRLKrvN/Screenshot-2024-03-24-at-12-10-10-AM.png" alt="Screenshot-2024-03-24-at-12-10-10-AM" border="0"></a>
-
 ## Dataset
 
 The dataset for this project is available [here](https://www.kaggle.com/datasets/ahmedembedded/pakistan-houses-pricing-data-web-scrapped). It contains essential information about houses, including square footage, number of bedrooms, location, and more. Cleaning and preprocessing of the data have been performed to ensure its suitability for training and evaluating the machine learning model.
@@ -58,9 +51,7 @@ To run or develop this project locally, follow these steps:
 - Python
 - Pandas
 - Scikit-Learn
-- Flask
-- HTML/CSS
-- JavaScript
+- Anvil
 
 ## Author
 - [Ahmed Abdullah](https://github.com/ahmedembeddedx/)
