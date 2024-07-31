@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Welcome to the House Pricing Predictor project! This predictive model is designed to estimate house prices based on various features. The project is developed by [Zaeem Ul Islam](https://github.com/mightyflavor/) and [Ahmed Abdullah](https://github.com/ahmedembeddedx). You can find the project repository [here](https://github.com/mightyflavor/house-pricing-predictor).
+Welcome to the House Pricing Predictor project! This predictive model is designed to estimate house prices based on various features. The project is developed by [Zaeem Ul Islam](https://github.com/mightyflavor/) and [Ahmed Abdullah](https://github.com/ahmedembeddedxx). You can find the project repository [here](https://github.com/ahmedembeddedxx/house-price-estimator).
 
 ## Dataset
 
@@ -29,7 +29,7 @@ To run or develop this project locally, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/ahmedembeddedx/Housing_Data_Predictive_Model.git
+   git clone https://github.com/ahmedembeddedxx/house-price-estimator.git
    ```
 
 2. Install the required dependencies:
@@ -54,7 +54,7 @@ To run or develop this project locally, follow these steps:
 - Anvil
 
 ## Author
-- [Ahmed Abdullah](https://github.com/ahmedembeddedx/)
+- [Ahmed Abdullah](https://github.com/ahmedembeddedxx/)
 - [Zaeem Ul Islam](https://github.com/mightyflavor/)
 
 ## Contact
